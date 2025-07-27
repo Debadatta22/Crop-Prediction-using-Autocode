@@ -98,6 +98,9 @@ Getting started
 
 Upload the dataset 
 
+![uploading dataset](https://github.com/user-attachments/assets/d6427c40-d453-4d99-a2ae-454260d25773)
+
+
 <img width="1327" height="518" alt="image" src="https://github.com/user-attachments/assets/9da95e0b-6e13-488f-837e-aebe9843eb0c" />
 
 <img width="1337" height="492" alt="image" src="https://github.com/user-attachments/assets/3b42c533-88f0-4bb7-89b9-a2701a051a31" />
@@ -138,7 +141,26 @@ We can select model , algorithm and experiment mode or settings here - Experimen
 <img width="1282" height="582" alt="image" src="https://github.com/user-attachments/assets/8abb9f66-432a-49f6-9c7a-6da2f7be703c" />
 
 click on run experiment and wait as it takes time to build and train and execute . (AutoCoding)
+
 <img width="1362" height="604" alt="image" src="https://github.com/user-attachments/assets/037f313e-5d92-4f7e-b8fd-d72e3f13b907" />
+
+Relationship Map
+
+![relationship map of experiment and building](https://github.com/user-attachments/assets/8f99460b-5269-4721-a940-57a3861b452f)
+
+![relationshipmap 1](https://github.com/user-attachments/assets/e1e15c33-d8ea-4618-ad9b-4796a6b79075)
+
+
+
+Progress Map
+
+![progressmap](https://github.com/user-attachments/assets/aac3ed71-d1b5-4e9a-8604-f025e451ad16)
+
+
+Prediction column label
+
+![pipeline](https://github.com/user-attachments/assets/15df9bdd-b89a-4e88-891e-08c4945ffb75)
+
 
 <img width="1365" height="560" alt="image" src="https://github.com/user-attachments/assets/62dc7d64-8dc3-4390-b7ea-dbf5d5dbacac" />
 
@@ -220,8 +242,12 @@ fill and click on predit
 
 Checking 
 
-![Uploading image.png…]()
+<img width="1242" height="503" alt="image" src="https://github.com/user-attachments/assets/a643a81f-2ab7-46ff-ac83-fe3ab31f27e7" />
 
+
+Another prediction 
+
+![prediction](https://github.com/user-attachments/assets/91e429be-a5bc-40b0-869e-c2e77c45e770)
 
 
 
